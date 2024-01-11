@@ -32,6 +32,7 @@ function App() {
 					<Pokemon pokemon={fetchedData.pokemon} />
 					<hr />
 					<PokemonColor pokemonColor={fetchedData.pokemonColor} />
+					<hr />
 				</>
 			)}
 		</div>
